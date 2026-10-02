@@ -1,0 +1,12 @@
+{
+  "terms": ["ontology", "language model"],
+  "subjects": ["cs", "econ", "eess", "math", "stat"],
+  "page_size": 100,
+  "api_delay_seconds": 3.1,
+  "content_delay_seconds": 15.1,
+  "timeout_seconds": 60,
+  "retries": 3,
+  "user_agent": "ontology-pkb/1.0 (personal research library)",
+  "title_page_size": 40,
+  "chunk_chars": 6000
+}

@@ -1,0 +1,3 @@
+# Optional: only needed for full-text HTML/PDF extraction. Metadata/search use stdlib.
+beautifulsoup4>=4.12,<5
+pypdf>=6,<7
